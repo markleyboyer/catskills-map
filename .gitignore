@@ -1,0 +1,8 @@
+# Not used by the hosted site
+tiles/base.pmtiles
+vendor/
+
+# Artifact-only packaging (pipeline/package_artifact.py)
+tiles/overlays.*.txt
+tiles/overlays.json
+fonts.json
